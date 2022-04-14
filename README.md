@@ -1,0 +1,1 @@
+# lol-miner-beam-nicehash
